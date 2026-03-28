@@ -1,3 +1,4 @@
+#!/bin/bash
 ban() {
 clear
 echo -e "\033[1;91m
